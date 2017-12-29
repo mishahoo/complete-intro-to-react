@@ -13,7 +13,7 @@ const MyFirstComponent = function() {
     null,
     ce(MyTitle, { title: 'One', color: 'peru' }),
     ce(MyTitle, { title: 'Two', color: 'lime' }),
-    ce(MyTitle, { title: 'Three', color: 'aquamarine' })
+    ce(MyTitle, { title: 'Five', color: 'aquamarine' })
   );
 };
 
